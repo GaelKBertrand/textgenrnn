@@ -183,3 +183,8 @@ Andrej Karpathy for the original proposal of the char-rnn via the blog post [The
 MIT
 
 Attention-layer code used from [DeepMoji](https://github.com/bfelbo/DeepMoji) (MIT Licensed)
+
+##More references:
+
+1. https://boingboing.net/2018/05/22/chocolate-chocolate-blood.html
+
