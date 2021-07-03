@@ -184,7 +184,7 @@ MIT
 
 Attention-layer code used from [DeepMoji](https://github.com/bfelbo/DeepMoji) (MIT Licensed)
 
-##More references:
+## More references:
 
 1. https://boingboing.net/2018/05/22/chocolate-chocolate-blood.html
 
